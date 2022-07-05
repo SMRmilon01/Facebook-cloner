@@ -1,6 +1,6 @@
 # Facebook-cloner
 
-git clone
+git clone https://github.com/SMRmilon01/Facebook-cloner
 
  cd Facebook-cloner
  
