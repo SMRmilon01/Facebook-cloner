@@ -9,3 +9,9 @@ git clone https://github.com/SMRmilon01/Facebook-cloner
 
 #Username: SMR
 #Pass: Milon 
+
+####
+
+ cd Facebook-cloner
+
+ python Fb-profile-lock.py
